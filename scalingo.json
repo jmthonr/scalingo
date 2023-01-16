@@ -39,6 +39,7 @@
             "description": "لا تغيره نهائيا!",
             "required": true,
             "value": "ANYTHING"
-        },
+        }
+
     }
   }
