@@ -39,7 +39,12 @@
             "description": "لا تغيره نهائيا!",
             "required": true,
             "value": "ANYTHING"
-        }
+        },
+        "REPO": {
+            "description": "لا تغير اي شيء هنا",
+            "required": true,
+            "value":"https://github.com/thejmthon/sbb_b0"
+        },
 
     }
   }
