@@ -1,4 +1,4 @@
-git clone https://github.com/thejmthon/sbb_b0 RMZ
+git clone $REPO RMZ
 cd RMZ
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt
