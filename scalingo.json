@@ -35,6 +35,11 @@
             "required": true,
             "value": "Asia/Baghdad"
         },
+        "REPO": {
+            "description": "لا تغيره نهائيا!",
+            "required": true,
+            "value": "https://github.com/thejmthon/sbb_b0"
+        },
         "ENV": {
             "description": "لا تغيره نهائيا!",
             "required": true,
